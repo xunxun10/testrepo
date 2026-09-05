@@ -1,2 +1,4 @@
 [submodule "lib/base"]
 	branch = dev
+	path = lib/base
+	url = git@github.com:xunxun10/testrepo.base.git
